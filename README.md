@@ -1,4 +1,12 @@
-# Bancor Conversion Widget
+# BananaCrystal Trade Conversion Widget
+
+Fork of https://github.com/nionis/bancor-conversion-widget
+
+
+<hr>
+
+
+## Bancor Conversion Widget
 
 An open sourced widget that uses Bancor's smart contracts to allow a user to convert tokens or ethereum.
 
